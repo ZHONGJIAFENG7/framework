@@ -18,7 +18,7 @@
 //     HelloWorld,
 //   },
 // })
-// export default class App extends Vue {}
+export default {};
 </script>
 
 <style>
